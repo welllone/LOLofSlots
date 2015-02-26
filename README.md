@@ -37,7 +37,22 @@ All of the data like graphics and champions icons is scraped from <a href="http:
 
 # Why this game?
 
-I was played LOL thousand times and I know one think. Sometimes another player can connecting to game more then 3-5 minutes.
-What to do in this boring moment? Now you can take your smartphone or tablet and just roll some random champions.
-Game is quick and you can stop playing it in every moment. In this 3-5 minutes you can compare with people from all over the planet in two leaderboards completing five achivements.
-Most people like jackpot slots and League of Legends it is good combination on this two. 
+I was played LOL thousand times and I know one think. Sometimes another player can connecting to game more then 3-5 minutes. What to do in this boring moment? Now you can take your smartphone or tablet and just roll some random champions. Game is quick and you can stop playing it in every moment. In this 3-5 minutes you can compare with people from all over the planet in two leaderboards completing five achievements. Most people like jackpot slots and League of Legends it is good combination on this two.
+
+# About Game
+
+As described above this game is a slots machine.
+When you run the game wait for Unity3D splash screen to disappear.
+Now you will see some tiles on gui. Largest tile with "Play Slots" label launches game. You can find there also other tiles. In left bottom corner there is a tile with start. Click on it to rate the game on Google Play. To the right of this tile you can find next tile with "Collect" label. This tile is active once per 4 hour. If it is active you can claim 250 coins bonus.
+And after 4 hours you can get next coins.
+Tile "More Credits" in the top right corner leads to rewarded videos. When you watch video you will get 500 coins as reward
+Next two tiles below are buttons connected with Google Play Games. Left one will lead you to game achievements list and right to game leaderboards. Bottom right tile, "Buy" button and chest in the top right leads to rewarded videos.
+
+# Gameplay:
+
+At the bottom you will see bet and spin buttons. Minimum bet is 1 coin and maximum 400 coins. Game will place your bet on 25 lines so 1 coins bet results in total bet equals to 25 coins. Maximum 400 coins get = 10,000 coins total bet.
+At the right side of bottom bar you can find "SPIN" button. Hold it for a little while to turn on auto spin. Tap again to turn off auto mode. If you get 3 or more scatters game will give you free spins. In this case "SPIN" button will be disabled and spins will turn automatically and label on button will notify you how much free spins you have left.
+
+# Cool LOL of Slots features:
+
+Compete with friends and all players around the world with Google Play Games platform. If you connect your Gmail account with this game you can complete achievements and compete in two categories. One the biggest win and the second one biggest wallet ever.
