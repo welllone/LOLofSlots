@@ -48,7 +48,7 @@ And after 4 hours you can get next coins.
 Tile "More Credits" in the top right corner leads to rewarded videos. When you watch video you will get 500 coins as reward
 Next two tiles below are buttons connected with Google Play Games. Left one will lead you to game achievements list and right to game leaderboards. Bottom right tile, "Buy" button and chest in the top right leads to rewarded videos.
 
-# Gameplay:
+# Gameplay
 
 At the bottom you will see bet and spin buttons. Minimum bet is 1 coin and maximum 400 coins. 
 Game will place your bet on 25 lines so 1 coins bet results in total bet equals to 25 coins. 
@@ -57,6 +57,6 @@ At the right side of bottom bar you can find "SPIN" button. Hold it for a little
 Tap again to turn off auto mode. If you get 3 or more scatters game will give you free spins. 
 In this case "SPIN" button will be disabled and spins will turn automatically and label on button will notify you how much free spins you have left.
 
-# Cool LOL of Slots features:
+# Cool LOL of Slots features
 
 Compete with friends and all players around the world with Google Play Games platform. If you connect your Gmail account with this game you can complete achievements and compete in two categories. One the biggest win and the second one biggest wallet ever.
