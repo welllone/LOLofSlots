@@ -1,5 +1,7 @@
 # LOLofSlots
 
+# Description 
+
 Welcome in free LOL of Slots League of Legends. 
 Are you nervous when you have to wait while LOL game is loading? 
 Someone just have wooden PC. 
@@ -28,3 +30,14 @@ Make BIG WIN and be the richest player in this LOL casino.
 LOL of Slots League of Legends isn't endorsed by Riot Games and doesn't reflect the views or opinions of 
 Riot Games or anyone officially involved in producing or managing League of Legends. 
 League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+
+# Where does this data come from?
+
+All of the data like graphics and champions icons is scraped from <a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/">Champion Grid</a>
+
+# Why this game?
+
+I was played LOL thousand times and I know one think. Sometimes another player can connecting to game more then 3-5 minutes.
+What to do in this boring moment? Now you can take your smartphone or tablet and just roll some random champions.
+Game is quick and you can stop playing it in every moment. In this 3-5 minutes you can compare with people from all over the planet in two leaderboards completing five achivements.
+Most people like jackpot slots and League of Legends it is good combination on this two. 
