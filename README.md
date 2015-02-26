@@ -50,8 +50,12 @@ Next two tiles below are buttons connected with Google Play Games. Left one will
 
 # Gameplay:
 
-At the bottom you will see bet and spin buttons. Minimum bet is 1 coin and maximum 400 coins. Game will place your bet on 25 lines so 1 coins bet results in total bet equals to 25 coins. Maximum 400 coins get = 10,000 coins total bet.
-At the right side of bottom bar you can find "SPIN" button. Hold it for a little while to turn on auto spin. Tap again to turn off auto mode. If you get 3 or more scatters game will give you free spins. In this case "SPIN" button will be disabled and spins will turn automatically and label on button will notify you how much free spins you have left.
+At the bottom you will see bet and spin buttons. Minimum bet is 1 coin and maximum 400 coins. 
+Game will place your bet on 25 lines so 1 coins bet results in total bet equals to 25 coins. 
+Maximum 400 coins get = 10,000 coins total bet.
+At the right side of bottom bar you can find "SPIN" button. Hold it for a little while to turn on auto spin. 
+Tap again to turn off auto mode. If you get 3 or more scatters game will give you free spins. 
+In this case "SPIN" button will be disabled and spins will turn automatically and label on button will notify you how much free spins you have left.
 
 # Cool LOL of Slots features:
 
