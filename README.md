@@ -33,7 +33,7 @@ League of Legends and Riot Games are trademarks or registered trademarks of Riot
 
 # Where does this data come from?
 
-All of the data like graphics and champions icons is scraped from <a href="http://ddragon.leagueoflegends.com/tool/">Data Dragon</a>
+All of the data like graphics and champions icons is from <a href="http://ddragon.leagueoflegends.com/tool/">Data Dragon</a>
 
 
 # Why this game?
